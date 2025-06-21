@@ -1,0 +1,4 @@
+Processes,MatrixSize,TotalTime,ComputeAvg,BcastAvg,ScatterAvg,GatherAvg,MaxMemoryMB
+2,6000.0,8.3006,,,,,1174.79
+3,6000.0,7.2749,,,,,1082.57
+4,6000.0,6.9094,,,,,1037.42

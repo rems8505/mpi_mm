@@ -1,0 +1,42 @@
+===== 2 PROCESSES =====
+[Rank 0] MPI matrix multiplication completed in 8.3006 seconds
+
+=== Performance Metrics Summary ===
+Processes      : 2
+Matrix Size    : 6000
+Total Time     : 8.3006 s
+Compute Time   : avg = 7.6263
+Bcast Time     : avg = 0.6225
+Scatter Time   : avg = 0.1812
+Gather Time    : avg = 0.2887
+Max Memory     : 1174.79 MB
+
+------------------------------------------------------------
+===== 3 PROCESSES =====
+[Rank 0] MPI matrix multiplication completed in 7.2749 seconds
+
+=== Performance Metrics Summary ===
+Processes      : 3
+Matrix Size    : 6000
+Total Time     : 7.2749 s
+Compute Time   : avg = 6.5660
+Bcast Time     : avg = 0.6971
+Scatter Time   : avg = 0.1408
+Gather Time    : avg = 0.3754
+Max Memory     : 1082.57 MB
+
+------------------------------------------------------------
+===== 4 PROCESSES =====
+[Rank 0] MPI matrix multiplication completed in 6.9094 seconds
+
+=== Performance Metrics Summary ===
+Processes      : 4
+Matrix Size    : 6000
+Total Time     : 6.9094 s
+Compute Time   : avg = 6.2045
+Bcast Time     : avg = 0.9202
+Scatter Time   : avg = 0.1025
+Gather Time    : avg = 0.2955
+Max Memory     : 1037.42 MB
+
+------------------------------------------------------------
