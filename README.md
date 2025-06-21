@@ -38,6 +38,16 @@ conda activate mpi-env
 pip install mpi4py matplotlib pandas psutil
 sudo apt install openmpi-bin libopenmpi-dev
 ```
+or
+
+```bash
+conda env create -f environment.yml
+conda activate mpi-env
+
+```
+This will:
+Set up the mpi-env environment
+Install all dependencies for running and plotting your MPI matrix multiplication project
 
 ---
 
